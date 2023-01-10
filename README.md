@@ -24,6 +24,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+![Maze](https://user-images.githubusercontent.com/78391043/211676714-0644af4c-e360-443d-a7e9-da0b0c397eff.png)
+
 •	[Homepage](https://tergelenkhtur.github.io/Maze-Video-Game/)
 •	[Game](https://tergelenkhtur.github.io/Maze-Video-Game/project/game.html)
 
